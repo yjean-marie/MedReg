@@ -1,0 +1,7 @@
+{
+    "name":"MedReg - Production",
+    "db": "mongodb://localhost",
+    "mail": {
+        "host": "prod-mail-server"
+    }
+}
